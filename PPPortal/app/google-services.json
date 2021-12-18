@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "210150025461",
+    "project_id": "ppportal-662cf",
+    "storage_bucket": "ppportal-662cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210150025461:android:d02ab58cbaa9f5b1edbdbc",
+        "android_client_info": {
+          "package_name": "com.app.ppportal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210150025461-0vtdadh7fq36q5a4ato1e19jkkp3jkeu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsp8QUYAOZNA_vZfBiLKw3_VtmPJI3o2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210150025461-0vtdadh7fq36q5a4ato1e19jkkp3jkeu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
